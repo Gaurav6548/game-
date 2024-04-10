@@ -1,5 +1,5 @@
 import random
-
+import numpy
 def gamewin(comp,you):
     if comp==you:
         return None
